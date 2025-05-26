@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+### Lenguajes de Programación
+![JS](https://img.shields.io/badge/-javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+![NB](https://img.shields.io/badge/-apachenetbeanside-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white)
+![XML](https://img.shields.io/badge/-xml-005FAD?style=flat&logo=xml&logoColor=white)
+
+### Bases de Datos
+![MySQL](https://img.shields.io/badge/-mysql-4479A1?style=flat&logo=mysql&logoColor=white)
+![PSQL](https://img.shields.io/badge/-postgresql-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+
 <!--
 **Juan270104/Juan270104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
