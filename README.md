@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy Juan 👋
 
 ### Lenguajes de Programación
 ![JS](https://img.shields.io/badge/-javascript-F7DF1E?style=flat&logo=javascript&logoColor=white)
